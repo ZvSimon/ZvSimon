@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Sequelize**
 
-- 📝 I regularly write articles on [mathematic](mathematic)
+
 
 - 📫 How to reach me **simonchou@live.fr**
 
