@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **React App**
 
-- 🌱 I’m currently learning **Sequelize**
+- 🌱 I’m currently learning **Sequelizen, an ORM for MySQL**
 
 
 
