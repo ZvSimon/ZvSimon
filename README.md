@@ -1,4 +1,4 @@
- <img align="center" alt="Afficher l’image source" width= "100%" height="250px" display= "inline-block " src="https://th.bing.com/th/id/R.491244e59e418979ab613dc849aa4c1a?rik=2AUdBnno3raM4w&pid=ImgRaw&r=0" >
+ <img align="center" alt="Afficher l’image source" width= "100%" height="250px" display= "inline-block " src="https://ak.picdn.net/shutterstock/videos/1028545166/thumb/1.jpg" >
 
 <h1 align="center">Hello 👋, I'm CHOUKROUN Simon</h1>
 <h3 align="center">Software Engineer SOON</h3>
