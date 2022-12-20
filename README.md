@@ -1,5 +1,4 @@
-
-  <img align="center"  alt="Afficher l’image source" style="max-width: 100%; display: inline-block src="https://cdn.dribbble.com/users/2812961/screenshots/1343649/media/9ad0f90e7fc3046fc4abd16654809482.jpg" >
+ <img align="center"  alt="Afficher l’image source" max-width: "100%"; display: "inline-block " src="https://cdn.dribbble.com/users/2812961/screenshots/1343649/media/9ad0f90e7fc3046fc4abd16654809482.jpg" >
 
 <h1 align="center">Hello 👋, I'm CHOUKROUN Simon</h1>
 <h3 align="center">Software Engineer SOON</h3>
