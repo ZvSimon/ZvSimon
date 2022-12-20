@@ -1,5 +1,5 @@
 <div>
-  <img align="center"  alt="Afficher l’image source"  src="https://cdn.dribbble.com/users/2812961/screenshots/13943649/media/9ad0f90e7fc3046fc4abd16654809482.jpg" >
+  <img align="center"  alt="Afficher l’image source" height=40px src="https://cdn.dribbble.com/users/2812961/screenshots/13943649/media/9ad0f90e7fc3046fc4abd16654809482.jpg" >
 </div>
 <h1 align="center">Hello 👋, I'm CHOUKROUN Simon</h1>
 <h3 align="center">Software Engineer SOON</h3>
