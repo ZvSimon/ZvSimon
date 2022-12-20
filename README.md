@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm CHOUKROUN Simon</h1>
 <h3 align="center">Software Engineer SOON</h3>
-<img align="right" alt="Afficher l’image source" src"https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align="right" alt="Afficher l’image source" width="400" src"https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
    
    
 - 🔭 I’m currently working on **React App**
