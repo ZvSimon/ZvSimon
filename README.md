@@ -3,9 +3,9 @@
 <h3 align="center">Software Engineer SOON</h3>
 <img align="right" alt="Afficher l’image source" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
 
-- 🔭 I’m currently working on **React App**
+- 🔭 I’m currently working on **React App,Scala,ML and DL**
 
-- 🌱 I’m currently learning **Sequelize, an ORM for MySQL**
+- 🌱 I’m currently learning **Azur Dev Ops**
 
 
 
